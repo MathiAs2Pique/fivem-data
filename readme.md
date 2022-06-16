@@ -3,3 +3,7 @@ Here are some data I needed to succeed in some private projects, which I had a h
 
 ## How did I get this data ?
 Using their APIs, and some regex. (So there is false data sometimes, It didn't bother me.
+
+### Description of the files
+
+cfx-codes : Extracted cfx codes (cfx.re/join/[code])
