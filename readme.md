@@ -12,3 +12,4 @@ Note 2 : I got this file by using regex, but there is like 0,1% of false codes, 
 
 - cfx-codes-array : codes, locales, premium status, owners in json format.
 Note : If no locale : "unknown-unknown". If no premium : "na"
+Note 2 : There is in this file informations about 24.897 servers, those who were offline when I retrieved the information were not included
